@@ -1,0 +1,8 @@
+Segunda clase
+-------------
+
+HTTP
+
+Un protocolo define reglas de negocio.
+
+
